@@ -4,7 +4,7 @@
 📌📎 [프로젝트 #1  MERN ECOMMERCE PROJECT] (https://github.com/MangwonCassie/MiniProject/tree/3rd_ecommerce)
 | OS           | Windows 10    |
 | ------------ | ------------- |
-| Language     | Content Cell  |
+| Language     | <img src="https://img.shields.io/badge/표시할이름-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
 | IDE          | Content Cell  |
 | Framework    | Content Cell  |
 | Database     | Content Cell  |
