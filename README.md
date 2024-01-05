@@ -5,7 +5,7 @@
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
-| IDE          | <img src="https://img.shields.io/badge/VisualStudio-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
+| IDE          | <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
 | Framework    | Content Cell  |
 | Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
 | Frontend     | Content Cell  |
@@ -20,7 +20,7 @@
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=javat&logoColor=white">   |
-| IDE          | <img src="https://img.shields.io/badge/VisualStudio-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
+| IDE          | <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
 | Framework    | Content Cell  |
 | Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
 | Frontend     | Content Cell  |
@@ -35,7 +35,7 @@
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
-| IDE          | <img src="https://img.shields.io/badge/VisualStudio-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
+| IDE          | <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
 | Framework    | Content Cell  |
 | Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
 | Frontend     | Content Cell  |
