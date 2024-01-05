@@ -12,8 +12,8 @@
 | Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
 | API          | Content Cell  |
 | Server       | Content Cell  |
-| Version      | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
-|  Control     | Content Cell  |
+| Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
+
 
 
 📌📎 [프로젝트 #2  TOMORROW HOUSE WEBSITE PROJECT] (https://github.com/SC-Front-End/Tomorrow-House)
