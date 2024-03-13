@@ -1,5 +1,5 @@
 # PORTFOLIO WEBSITE WRAP-UP 
-💘 [PORTFOLIO WEBSITE (CLICK HERE TO CHECK] (https://mangwoncassie.github.io/portfolio_deployment/)
+💘 [PORTFOLIO WEBSITE (CLICK HERE TO CHECK)] (https://mangwoncassie.github.io/portfolio_deployment/)
 
 
 📌📎 [프로젝트 #1  MERN ECOMMERCE PROJECT] (https://github.com/MangwonCassie/MiniProject/tree/3rd_ecommerce)
