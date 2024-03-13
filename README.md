@@ -7,7 +7,7 @@
 # PROJECTS
 📌📎 [프로젝트 #1  MERN ECOMMERCE PROJECT] (https://github.com/MangwonCassie/MiniProject/tree/3rd_ecommerce)
 ![cassie ecommerce programming background](https://github.com/MangwonCassie/portfolio_deployment/assets/129250487/da6679f4-8adc-4226-97bd-44fc3b099e2b)
-
+참여 인원 : 1명 
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
@@ -17,10 +17,30 @@
 | Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
 | Server       | <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">  |
 | Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
+<br/>
+<br/>
+
+📌📎 [프로젝트 #2  또간지도] (https://front-3i4mdxr85-kimduhee7524s-projects.vercel.app)
+
+참여 인원 : FE 5명 + BE 9명 
+| OS           | Windows 10    |
+| ------------ | ------------- |
+| Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
+| IDE          | <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
+| Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
+| Framework    | <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> |
+| Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
+| Server       | <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">  |
+| Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
+| Deployment       | <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/AWS-61DAFB?style=for-the-badge&logo=aws&logoColor=white">   |
+<br/>
+<br/>
 
 
+📌📎 [프로젝트 #3  TOMORROW HOUSE WEBSITE PROJECT] (https://github.com/SC-Front-End/Tomorrow-House)
 
-📌📎 [프로젝트 #2  TOMORROW HOUSE WEBSITE PROJECT] (https://github.com/SC-Front-End/Tomorrow-House)
+![스크린샷(1209)](https://github.com/MangwonCassie/portfolio_deployment/assets/129250487/11c09745-3164-4c25-a572-f89fdbb3579d)
+
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=javat&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-000000?style=for-the-badge&logo=springboott&logoColor=white"> <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3t&logoColor=white">  |
@@ -30,13 +50,14 @@
 | API          |<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  |
 | Server       | <img src="https://img.shields.io/badge/AWS-61DAFB?style=for-the-badge&logo=aws&logoColor=white">  |
 | Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
+<br/>
+<br/>
 
 
-
-📌📎 [프로젝트 #3  NIKE CLONE WEBSITE PROJECT] (https://github.com/SC-Front-End/Nike-Clone)
+📌📎 [프로젝트 #4  NIKE CLONE WEBSITE PROJECT] (https://github.com/SC-Front-End/Nike-Clone)
 
 ![nikeproject](https://github.com/MangwonCassie/portfolio_deployment/assets/129250487/ec5d63a2-2daf-4c90-a04c-80a6aedbbe70)
-
+참여 인원 : FE 5명
 
 | OS           | Windows 10    |
 | ------------ | ------------- |
@@ -45,9 +66,9 @@
 | Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
 | Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
 | Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
-
-
-
+<br/>
+<br/>
+FOR MORE IN THE PORTFOLIO WEBSITE
 
 * * * 
 # SKILL
