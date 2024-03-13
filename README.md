@@ -6,16 +6,16 @@
 
 # PROJECTS
 📌📎 [프로젝트 #1  MERN ECOMMERCE PROJECT] (https://github.com/MangwonCassie/MiniProject/tree/3rd_ecommerce)
+![cassie ecommerce programming background](https://github.com/MangwonCassie/portfolio_deployment/assets/129250487/da6679f4-8adc-4226-97bd-44fc3b099e2b)
+
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
-| IDE          | <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
-| Framework    | Content Cell  |
+| IDE          | <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
 | Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
-| Frontend     | Content Cell  |
+| Framework    | <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> |
 | Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
-| API          | Content Cell  |
-| Server       | Content Cell  |
+| Server       | <img src="https://img.shields.io/badge/HEROKU-430098?style=for-the-badge&logo=heroku&logoColor=white">  |
 | Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
 
 
@@ -25,15 +25,12 @@
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=javat&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-000000?style=for-the-badge&logo=springboott&logoColor=white"> <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html&logoColor=white"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3t&logoColor=white">  |
 | IDE          | <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
-| Framework    | Content Cell  |
-  | Build Tool   | <img src="https://img.shields.io/badge/ApacheMaven-#C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">   |
 | Database     |  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">  |
-| Frontend     | Content Cell  |
 | Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
-| API          | Content Cell  |
-| Server       | Content Cell  |
-| Version      | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
-|  Control     | Content Cell  |
+| API          |<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">  |
+| Server       | <img src="https://img.shields.io/badge/AWS-61DAFB?style=for-the-badge&logo=aws&logoColor=white">  |
+| Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
+
 
 
 📌📎 [프로젝트 #3  NIKE CLONE WEBSITE PROJECT] (https://github.com/SC-Front-End/Nike-Clone)
@@ -45,14 +42,10 @@
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
 | IDE          | <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">  |
-| Framework    | Content Cell  |
 | Database     |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white">  |
-| Frontend     | Content Cell  |
 | Library      |<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">  |
-| API          | Content Cell  |
-| Server       | Content Cell  |
-| Version      | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
-|  Control     | Content Cell  |
+| Version Control        | <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">  |
+
 
 
 
@@ -84,7 +77,7 @@ Redux를 이용한 전역 상태관리와 관련 미들웨어 사용에 익숙�
 상태관리 라이브러리를 이용할 때, 서버 데이터와 클라이언트 데이터를 구분합니다.
 
 **Java<br/>**
-OOP특징과 데이터 탙입, 라이브러리를 이용하여 구현에 적용 가능합니다.
+OOP특징과 데이터 타입, 라이브러리를 이용하여 구현에 적용 가능합니다.
 메모리 구조를 이해하고 싱글톤디자인패턴을 통한 간단한 애플리케이션 제작하는 코딩이 가능합니다.
 상속, 추상클래스를 활용한 기본적인 로직 구현이 가능합니다.
 
