@@ -37,6 +37,10 @@
 
 
 📌📎 [프로젝트 #3  NIKE CLONE WEBSITE PROJECT] (https://github.com/SC-Front-End/Nike-Clone)
+
+![nikeproject](https://github.com/MangwonCassie/portfolio_deployment/assets/129250487/ec5d63a2-2daf-4c90-a04c-80a6aedbbe70)
+
+
 | OS           | Windows 10    |
 | ------------ | ------------- |
 | Language     | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">   |
